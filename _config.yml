@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Serhii Havrylov
+email: sergii.gavrylov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  There is no description.
+  PhD Candidate at University of Amsterdam
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: SerhiiHavrylov
 github_username: sergii-gavrylov
 linkedin_username: sergii-gavrylov-666796a7
 linkedin_username_clean: Serhii Havrylov
+#google_analytics_tracking_id: 'UA-76057124-1'
 
 # Build settings
 markdown: kramdown
