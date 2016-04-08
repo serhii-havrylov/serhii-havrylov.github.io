@@ -14,11 +14,12 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+	
+	{% assign sorted_pages = site.pages | sort:"order_id" %}
+	{% for p in sorted_pages %}
+            <a  {% if p.url == page.url %}class="active page-link"{% else %}class="page-link"{% endif %} {% if p.link %}href="{{ p.link }}" {%else%} href="{{ p.url | prepend: site.baseurl }}" {% endif%}> {{ p.title }} </a>    
+	{% endfor %}
+
       </div>
     </nav>
 
