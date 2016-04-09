@@ -15,10 +15,22 @@
 
       <div class="trigger">
 	
-	{% assign sorted_pages = site.pages | sort:"order_id" %}
-	{% for p in sorted_pages %}
-            <a  {% if p.url == page.url %}class="active page-link"{% else %}class="page-link"{% endif %} {% if p.link %}href="{{ p.link }}" {%else%} href="{{ p.url | prepend: site.baseurl }}" {% endif%}> {{ p.title }} </a>    
-	{% endfor %}
+      {% assign sorted_pages = site.pages | sort:"order_id" %}
+      {% for p in sorted_pages %}
+        <a
+          {% if p.url == page.url %}
+            class="active page-link"
+          {% else %}
+            class="page-link"
+          {% endif %}
+
+          {% if p.link %}
+            href="{{ p.link }}"
+          {%else%}
+            href="{{ p.url | prepend: site.baseurl }}"
+          {% endif%}> {{ p.title }}
+        </a>
+      {% endfor %}
 
       </div>
     </nav>

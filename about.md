@@ -5,15 +5,21 @@ order_id: 0
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/res/photo.jpeg" style="float: left; 
+                                  width: 200px; 
+                                  margin: 0px 20px 0px 0px;"/>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Hi!  
+I am Serhii, PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
+University of Amsterdam.  
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Prior to joining ILLC, I had been working as a 
+research engineer at [Grammarly Inc](https://www.grammarly.com). 
+There, I was focusing on solving natural language error correction 
+tasks with machine learning approaches. I have Bachelor’s and Master’s 
+degrees in applied mathematics from the 
+National Technical University of Ukraine “KPI”.  
 
-bla bla bla
-[boooo](https://github.com/sergii-gavrylov/ShowAndTell/blob/master/caption_generation_server/app.py)
+You can see a quick summary of my professional, educational and 
+volunteering background on my LinkedIn 
+[profile](https://linkedin.com/in/sergii-gavrylov-666796a7).
