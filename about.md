@@ -5,9 +5,7 @@ order_id: 0
 permalink: /about
 ---
 
-<img src="/res/photo.jpeg" style="float: left; 
-                                  width: 200px; 
-                                  margin: 0px 20px 0px 0px;"/>
+<img src="/res/photo.jpeg" class="about-photo"/>
 
 Hi!  
 I am Serhii, PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
