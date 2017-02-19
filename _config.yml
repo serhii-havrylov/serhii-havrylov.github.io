@@ -11,10 +11,10 @@ email: sergii.gavrylov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   PhD candidate at University of Amsterdam
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sergii-gavrylov.github.io" # the base hostname & protocol for your site
+url: "https://serhii-havrylov.github.io" # the base hostname & protocol for your site
 twitter_username: SerhiiHavrylov
-github_username: sergii-gavrylov
-linkedin_username: sergii-gavrylov-666796a7
+github_username: serhii-havrylov
+linkedin_username: serhii-havrylov-666796a7
 linkedin_username_clean: SerhiiHavrylov
 #google_analytics_tracking_id: 'UA-76057124-1'
 
