@@ -8,7 +8,7 @@ permalink: /about
 <img src="/res/photo.jpeg" class="about-photo"/>
 
 Hi!  
-I am Serhii, PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
+I am Serhii, a PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
 University of Amsterdam.  
 
 Prior to joining ILLC, I had been working as a 
@@ -20,4 +20,4 @@ National Technical University of Ukraine “KPI”.
 
 You can see a quick summary of my professional, educational and 
 volunteering background on my LinkedIn 
-[profile](https://linkedin.com/in/sergii-gavrylov-666796a7).
+[profile](https://www.linkedin.com/in/serhii-havrylov-666796a7).
