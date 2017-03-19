@@ -10,6 +10,9 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    {% if page.mathjax %}
+    {% include mathjax.html %}
+	  {% endif %}
     {% include disqus_comments.html %}
   </div>
 

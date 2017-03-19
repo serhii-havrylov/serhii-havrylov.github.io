@@ -5,7 +5,7 @@ order_id: 0
 permalink: /about
 ---
 
-<img src="/res/photo.jpeg" class="about-photo"/>
+![about-photo](/res/photo.jpeg){: .about-photo}
 
 Hi!  
 I am Serhii, a PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
