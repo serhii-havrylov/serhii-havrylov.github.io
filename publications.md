@@ -9,6 +9,8 @@ permalink: /publications
 
 **Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols** \\
 **Serhii Havrylov**, Ivan Titov \\
+*The paper is accepted at NIPS 2017* \\
+[Paper](https://arxiv.org/abs/1705.11192){: .btn .btn--success} \\
 *ICLR2017 Workshop track* \\
 [Paper](https://openreview.net/pdf?id=SkaxnKEYg){: .btn .btn--success}
 
