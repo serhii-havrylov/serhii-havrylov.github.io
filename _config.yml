@@ -9,7 +9,7 @@
 title: Serhii Havrylov
 email: sergii.gavrylov@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  PhD candidate at University of Amsterdam
+  PhD student at the University of Edinburgh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serhii-havrylov.github.io" # the base hostname & protocol for your site
 twitter_username: SerhiiHavrylov
