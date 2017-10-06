@@ -8,10 +8,9 @@ permalink: /about
 ![about-photo](/res/photo.jpeg){: .about-photo}
 
 Hi!  
-I am Serhii, a PhD candidate at the [ILLC](https://www.illc.uva.nl/), 
-University of Amsterdam.  
+I am Serhii, a PhD student at the [ILCC](http://web.inf.ed.ac.uk/ilcc), the University of Edinburgh. Previously, I had been working on my thesis at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam.  
 
-Prior to joining ILLC, I had been working as a 
+Prior to starting PhD, I had been working as a 
 research engineer at [Grammarly Inc](https://www.grammarly.com). 
 There, I was focusing on solving natural language error correction 
 tasks with machine learning approaches. I have Bachelor’s and Master’s 
