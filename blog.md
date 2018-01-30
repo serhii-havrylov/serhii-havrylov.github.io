@@ -6,5 +6,7 @@ permalink: /blog.html
 ---
 
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
+	{% unless post.hidden %}
+  		* {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
+  	{% endunless %}
 {% endfor %}

@@ -136,6 +136,14 @@ $on-laptop:        800px;
   margin-bottom: 1em;
 }
 
+.align-image-center-smaller {
+  display: block;
+  margin: auto;
+  margin-top:  1em;
+  margin-bottom: 1em;
+  width: 70%;
+}
+
 .notice--info {
   @include notice($info-color);
 }
@@ -256,4 +264,21 @@ display: inline-block;
     opacity: 0.65;
   }
 
+}
+
+.photo-center-images {
+ display: flex;
+ align-items: flex-start;
+ justify-content: space-between;
+}
+.photo-center-images img {
+  width:50%; 
+}
+
+.smaller {
+  width:50%; 
+}
+
+.class {
+  text-align: center;
 }
