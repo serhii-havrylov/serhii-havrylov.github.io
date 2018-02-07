@@ -3,7 +3,7 @@ layout: post
 title: "Notes on Controllable Text Generation"
 date: 2017-03-14 23:27:21 +0100
 author: "Serhii Havrylov"
-permalink: /blog/mutual_info
+permalink: /blog/mutual_info/
 comments: true
 mathjax: true
 ---
