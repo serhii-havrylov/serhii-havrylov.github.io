@@ -5,18 +5,19 @@ order_id: 2
 permalink: /publications
 ---
 
+# 2018
+**Embedding Words as Distributions with a Bayesian Skip-gram Model** \\
+Arthur Bražinskas, **Serhii Havrylov**, Ivan Titov \\
+*COLING 2018* \\
+[Paper](https://arxiv.org/abs/1711.11027){: .btn .btn--success} \\
+*Bayesian Deep Learning NIPS 2016 Workshop* \\
+[Paper](http://bayesiandeeplearning.org/2016/papers/BDL_25.pdf){: .btn .btn--success}
+
 # 2017
 
 **Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols** \\
 **Serhii Havrylov**, Ivan Titov \\
-*The paper is accepted at NIPS 2017* \\
-[Paper](https://arxiv.org/abs/1705.11192){: .btn .btn--success} \\
+*NIPS 2017* \\
+[Paper](http://papers.nips.cc/paper/6810-emergence-of-language-with-multi-agent-games-learning-to-communicate-with-sequences-of-symbols){: .btn .btn--success} \\
 *ICLR2017 Workshop track* \\
 [Paper](https://openreview.net/pdf?id=SkaxnKEYg){: .btn .btn--success}
-
-# 2016
-
-**Embedding Words as Distributions with a Bayesian Skip-gram Model** \\
-Arthur Bražinskas, **Serhii Havrylov**, Ivan Titov \\
-*Bayesian Deep Learning NIPS 2016 Workshop* \\
-[Paper](http://bayesiandeeplearning.org/papers/BDL_25.pdf){: .btn .btn--success}
