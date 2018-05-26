@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Emergence of Language with Multi-agent Games"
-date: 2017-01-30 10:27:21 +0100
+date: 2018-02-15 10:27:21 +0100
 author: "Serhii Havrylov"
 permalink: /blog/sap/
 comments: true
