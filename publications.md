@@ -5,6 +5,12 @@ order_id: 2
 permalink: /publications
 ---
 
+# 2019
+**Cooperative Learning of Disjoint Syntax and Semantics** \\
+**Serhii Havrylov**, Germán Kruszewski, Armand Joulin \\
+*NAACL-HLT 2019* \\
+[Paper](https://serhii-havrylov.github.io/res/naacl.pdf){: .btn .btn--success}
+
 # 2018
 **Embedding Words as Distributions with a Bayesian Skip-gram Model** \\
 Arthur Bražinskas, **Serhii Havrylov**, Ivan Titov \\
