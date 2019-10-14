@@ -11,6 +11,10 @@ Shangmin Guo, Yi Ren, **Serhii Havrylov**, Stella Frank, Ivan Titov, Kenny Smith
 *EmeCom NeurIPS 2019 Workshop* \\
 [Paper](https://arxiv.org/abs/1910.05291){: .btn .btn--success}
 
+**Obfuscation for Privacy-preserving Syntactic Parsing** \\
+Zhifeng Hu, **Serhii Havrylov**, Ivan Titov, Shay B. Cohen \\
+[Paper](https://arxiv.org/abs/1904.09585){: .btn .btn--success}
+
 **Cooperative Learning of Disjoint Syntax and Semantics** \\
 **Serhii Havrylov**, Germán Kruszewski, Armand Joulin \\
 *NAACL-HLT 2019* \\
