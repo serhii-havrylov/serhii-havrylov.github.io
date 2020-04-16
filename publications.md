@@ -8,6 +8,8 @@ permalink: /publications
 # 2019
 **The Emergence of Compositional Languages for Numeric Concepts Through Iterated Learning in Neural Agents** \\
 Shangmin Guo, Yi Ren, **Serhii Havrylov**, Stella Frank, Ivan Titov, Kenny Smith \\
+*Evolang 2020* \\
+[Paper](https://brussels.evolang.org/proceedings/evolang13_proceedings.pdf){: .btn .btn--success}
 *EmeCom NeurIPS 2019 Workshop* \\
 [Paper](https://arxiv.org/abs/1910.05291){: .btn .btn--success}
 
