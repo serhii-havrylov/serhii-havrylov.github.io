@@ -5,6 +5,17 @@ order_id: 2
 permalink: /publications
 ---
 
+# 2020
+**Preventing Posterior Collapse with Levenshtein Variational Autoencoder** \\
+**Serhii Havrylov**, Ivan Titov \\
+*Preprint* \\
+[Paper](https://arxiv.org/abs/2004.14758){: .btn .btn--success}
+
+**Obfuscation for Privacy-preserving Syntactic Parsing** \\
+Zhifeng Hu, **Serhii Havrylov**, Ivan Titov, Shay B. Cohen \\
+*IWPT 2020*
+[Paper](https://iwpt20.sigparse.org/pdf/2020.iwpt-1.7.pdf){: .btn .btn--success}
+
 # 2019
 **The Emergence of Compositional Languages for Numeric Concepts Through Iterated Learning in Neural Agents** \\
 Shangmin Guo, Yi Ren, **Serhii Havrylov**, Stella Frank, Ivan Titov, Kenny Smith \\
@@ -12,10 +23,6 @@ Shangmin Guo, Yi Ren, **Serhii Havrylov**, Stella Frank, Ivan Titov, Kenny Smith
 [Paper](https://brussels.evolang.org/proceedings/evolang13_proceedings.pdf){: .btn .btn--success} \\
 *EmeCom NeurIPS 2019 Workshop* \\
 [Paper](https://arxiv.org/abs/1910.05291){: .btn .btn--success}
-
-**Obfuscation for Privacy-preserving Syntactic Parsing** \\
-Zhifeng Hu, **Serhii Havrylov**, Ivan Titov, Shay B. Cohen \\
-[Paper](https://arxiv.org/abs/1904.09585){: .btn .btn--success}
 
 **Cooperative Learning of Disjoint Syntax and Semantics** \\
 **Serhii Havrylov**, Germán Kruszewski, Armand Joulin \\
