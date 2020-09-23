@@ -13,7 +13,7 @@ permalink: /publications
 
 **Obfuscation for Privacy-preserving Syntactic Parsing** \\
 Zhifeng Hu, **Serhii Havrylov**, Ivan Titov, Shay B. Cohen \\
-*IWPT 2020*
+*IWPT 2020* \\
 [Paper](https://iwpt20.sigparse.org/pdf/2020.iwpt-1.7.pdf){: .btn .btn--success}
 
 # 2019
