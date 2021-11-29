@@ -5,6 +5,12 @@ order_id: 2
 permalink: /publications
 ---
 
+# 2021
+**Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations** \\
+Fangyu Liu, Yunlong Jiao, Jordan Massiah, Emine Yilmaz, **Serhii Havrylo** \\
+*Preprint* \\
+[Paper](https://arxiv.org/abs/2109.13059){: .btn .btn--success}
+
 # 2020
 **Preventing Posterior Collapse with Levenshtein Variational Autoencoder** \\
 **Serhii Havrylov**, Ivan Titov \\
