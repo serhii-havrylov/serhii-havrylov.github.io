@@ -7,7 +7,7 @@ permalink: /publications
 
 # 2021
 **Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations** \\
-Fangyu Liu, Yunlong Jiao, Jordan Massiah, Emine Yilmaz, **Serhii Havrylo** \\
+Fangyu Liu, Yunlong Jiao, Jordan Massiah, Emine Yilmaz, **Serhii Havrylov** \\
 *Preprint* \\
 [Paper](https://arxiv.org/abs/2109.13059){: .btn .btn--success}
 
