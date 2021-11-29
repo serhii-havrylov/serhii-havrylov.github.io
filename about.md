@@ -5,7 +5,7 @@ order_id: 0
 permalink: /about
 ---
 
-![about-photo](/res/photo.jpeg){: .about-photo}
+![about-photo](/res/photo.png){: .about-photo}
 
 Hi!  
 I am Serhii, a PhD student at the [ILCC](http://web.inf.ed.ac.uk/ilcc), the University of Edinburgh. Previously, I had been working on my thesis at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam.  
